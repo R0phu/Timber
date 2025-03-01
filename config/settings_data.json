@@ -1,5 +1,32 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "current": "Default",
+  "current": {
+    "color_primary": "#54dad8",
+    "color_secondary": "#ff69b4",
+    "color_borders": "#ffb6c1",
+    "color_body_bg": "#ff1493",
+    "color_body_text": "#cadede",
+    "color_footer_bg": "#ff69b4",
+    "color_footer_text": "#cadede",
+    "color_footer_social_link": "#54dad8",
+    "logo_use_image": false,
+    "favicon_enable": false,
+    "footer_social_enable": true,
+    "footer_newsletter_enable": true,
+    "cart_notes_enable": true,
+    "ajax_cart_method": "drawer",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "content_for_index": []
+  },
   "presets": {
     "Default": {
       "ajax_cart_method": "drawer",
