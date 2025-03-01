@@ -11,9 +11,9 @@
   "current": {
     "color_primary": "#54dad8",
     "color_secondary": "#ff69b4",
-    "color_borders": "#ffb6c1",
-    "color_body_bg": "#ff1493",
-    "color_body_text": "#cadede",
+    "color_borders": "#ffbcd9",
+    "color_body_bg": "#ff69b4",
+    "color_body_text": "#54dad8",
     "color_footer_bg": "#ff69b4",
     "color_footer_text": "#cadede",
     "color_footer_social_link": "#54dad8",
@@ -22,7 +22,7 @@
     "footer_social_enable": true,
     "footer_newsletter_enable": true,
     "cart_notes_enable": true,
-    "ajax_cart_method": "drawer",
+    "ajax_cart_method": "page",
     "social_twitter_link": "",
     "social_facebook_link": "",
     "content_for_index": []
